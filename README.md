@@ -80,23 +80,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-- Ultralytics for the YOLO framework
-- Roboflow for dataset management tools
-- NVIDIA for CUDA support
-
-## Citations
-If you use this implementation in your research, please cite:
-```
-@misc{YOLOv12-Training,
-    author = {Sakib Ahmed Shuva},
-    title = {YOLOv12 Training Implementation},
-    year = {2025},
-    publisher = {GitHub},
-    url = {https://github.com/SakibAhmedShuva/YOLOv12-Training}
-}
-```
-
-## Contact
-For questions and support, please open an issue in the GitHub repository.
