@@ -1,0 +1,15 @@
+ultralytics==8.3.105
+roboflow==1.1.61
+numpy==1.23.5
+opencv-python==4.9.0.80
+pillow==10.4.0
+PyYAML==6.0.2
+requests==2.32.3
+scipy==1.11.4
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
+matplotlib==3.8.3
+seaborn==0.13.2
+pandas==1.5.3
+wandb==0.19.9
+ipywidgets==8.1.6
